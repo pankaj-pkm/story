@@ -1,1 +1,2 @@
 This is file1 contents.
+Quick brown fox jumps over the lazy dog.
